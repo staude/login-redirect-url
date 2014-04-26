@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Login Redirect Url v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-24 07:35:17+0000\n"
+"Last-Translator: admin <frank@staude.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class-login-redirect-url.php:48
+#@ login-redirect-url
+msgctxt "Userlist Columntitle"
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+#: class-login-redirect-url.php:86
+#@ login-redirect-url
+msgctxt "Backend Pagetitle"
+msgid "Login Redirect URL"
+msgstr "Login Redirect URL"
+
+#: class-login-redirect-url.php:87
+#@ login-redirect-url
+msgctxt "Backend Menutitle"
+msgid "Login redirect"
+msgstr "Login Redirect URL"
+
+#: class-login-redirect-url.php:112
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: class-login-redirect-url.php:112
+#@ login-redirect-url
+msgid "Login redirect URL"
+msgstr "Login redirect URL"
+
+#: class-login-redirect-url.php:113
+#@ login-redirect-url
+msgid "Settings to redirect user after login."
+msgstr "Settings to redirect user after login."
+
+#: class-login-redirect-url.php:121
+#@ login-redirect-url
+msgid "Hostlist of allowed hosts, when redirecting to external hosts."
+msgstr "Hostlist of allowed hosts, when redirecting to external hosts."
+
+#: class-login-redirect-url.php:124
+#@ login-redirect-url
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: class-login-redirect-url.php:193
+#@ login-redirect-url
+msgid "User redirect to"
+msgstr "User redirect to"
+
+#: class-login-redirect-url.php:196
+#@ login-redirect-url
+msgid "Insert destination URL."
+msgstr "Insert destination URL."
+
+#: class-login-redirect-url.php:202
+#@ login-redirect-url
+msgid "none page selected"
+msgstr "none page selected"
+
+#: class-login-redirect-url.php:203
+#@ login-redirect-url
+msgid "or select a page"
+msgstr "or select a page"
+
+#. translators: plugin header field 'Name'
+#: login-redirect-url.php:0
+#@ login-redirect-url
+msgid "Login Redirect Url"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: login-redirect-url.php:0
+#@ login-redirect-url
+msgid "http://www.staude.net/wordpress/plugins/LoginRedirectUrl"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: login-redirect-url.php:0
+#@ login-redirect-url
+msgid "Redirect a User after login to a specified URL"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: login-redirect-url.php:0
+#@ login-redirect-url
+msgid "Frank Staude"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: login-redirect-url.php:0
+#@ login-redirect-url
+msgid "http://www.staude.net/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: login-redirect-url.php:0
+#@ login-redirect-url
+msgid "0.1"
+msgstr ""
+
