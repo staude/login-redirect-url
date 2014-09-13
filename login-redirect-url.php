@@ -6,7 +6,7 @@ Description: Redirect a user after login to a specified URL or Page
 Author: Frank Staude
 Version: 0.1
 Author URI: http://www.staude.net/
-Compatibility: WordPress 3.9
+Compatibility: WordPress 4.0
 Text Domain: login-redirect-url
 Domain Path: languages
  * 
